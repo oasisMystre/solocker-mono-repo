@@ -1,0 +1,9 @@
+[submodule "packages/solocker-streamflow"]
+	path = packages/solocker-streamflow
+	url = https://github.com/oasisMystre/solocker-streamflow.git
+[submodule "packages/solocker-server"]
+	path = packages/solocker-server
+	url = https://github.com/oasisMystre/solocker-kluster.git
+[submodule "packages/solocker-app"]
+	path = packages/solocker-app
+	url = https://github.com/oasisMystre/solocker.git
